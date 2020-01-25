@@ -101,3 +101,5 @@ var zoomOnHover = {
 		this.resizeCheckInterval && clearInterval(this.resizeCheckInterval)
 	}
 }
+
+export default zoomOnHover;

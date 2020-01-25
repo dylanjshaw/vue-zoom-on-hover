@@ -1,19 +1,44 @@
 {
-  "name": "@intera/vue-zoom-on-hover",
-  "version": "1.0.0",
-  "description": "vue.js component that shows the full image or a scaled image in the image area on hover",
-  "main": "zoomOnHover.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_from": "github:dylanjshaw/vue-zoom-on-hover#master",
+  "_id": "@intera/vue-zoom-on-hover@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/@intera/vue-zoom-on-hover",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "dylanjshaw/vue-zoom-on-hover#master",
+    "rawSpec": "dylanjshaw/vue-zoom-on-hover#master",
+    "saveSpec": "github:dylanjshaw/vue-zoom-on-hover#master",
+    "fetchSpec": null,
+    "gitCommittish": "master"
   },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "github:dylanjshaw/vue-zoom-on-hover#b22bf28523b6b42a4d482ca7f9467ef2759394b4",
+  "_spec": "dylanjshaw/vue-zoom-on-hover#master",
+  "_where": "/Users/dylanshaw/Apps/Slate-Vue",
+  "author": {
+    "name": "Julian Kalbhenn"
+  },
+  "bugs": {
+    "url": "https://github.com/Intera/vue-zoom-on-hover/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "vue.js component that shows the full image or a scaled image in the image area on hover",
+  "homepage": "https://github.com/Intera/vue-zoom-on-hover#readme",
+  "license": "GPL-3.0",
+  "main": "zoomOnHover.js",
+  "name": "@intera/vue-zoom-on-hover",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Intera/vue-zoom-on-hover.git"
   },
-  "author": "Julian Kalbhenn",
-  "license": "GPL-3.0",
-  "bugs": {
-    "url": "https://github.com/Intera/vue-zoom-on-hover/issues"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/Intera/vue-zoom-on-hover#readme"
+  "version": "1.0.0"
 }
